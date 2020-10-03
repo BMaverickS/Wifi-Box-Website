@@ -1,0 +1,49 @@
+.divtitle
+{
+    font-size: 25px;
+    color: #8e1a1c;
+    font-family: sans-serif;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.divdata
+{
+    margin-left: 10px;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+.divbtn2
+{
+    font-size: 20px;
+    background-color: #8e1a1c;
+    width: 400px;
+    color: white;
+    margin-top: 10px;
+    border-radius: 5px;
+    border: none;
+    width: 100px;
+    height: 40px;
+    box-shadow: 1px 1px 1px #888888;
+}
+
+.divbtnmargin
+{
+    margin-left: 10px;
+}
+
+.divbtn2:hover
+{
+    opacity: 0.8;
+    box-shadow: 2px 2px 2px #888888;
+}
+
+.divfoot2
+{
+    left: 0;
+    bottom: 0;
+    position: fixed;
+    margin-left: 10px;
+    font-family: sans-serif;
+}
